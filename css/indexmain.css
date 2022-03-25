@@ -1,0 +1,54 @@
+.page .rd-navbar-brand img{
+    width: 300px !important;
+    height: 100px !important;
+}
+
+.swiper-slider-corporate h6 {
+    text-shadow: 2px 2px 10px #162e44;
+    font-weight: bold !important;
+}
+
+.swiper-slider-corporate h2{
+    text-shadow: 2px 2px 5px #162e44;
+    font-weight: bold !important;
+}
+
+.button-default-outline.button-ujarak::before {
+    background: #162e44 !important;
+}
+
+.context-dark .button.button-ujarak:not([class*='button-secondary']):hover, .bg-gray-dark .button.button-ujarak:not([class*='button-secondary']):hover, .bg-primary .button.button-ujarak:not([class*='button-secondary']):hover, .context-dark .button.button-ujarak:not([class*='button-secondary']):active, .bg-gray-dark .button.button-ujarak:not([class*='button-secondary']):active, .bg-primary .button.button-ujarak:not([class*='button-secondary']):active {
+    border-color: #162e44;
+}
+
+.button-default-outline:hover, .button-default-outline:active {
+    color: #ffffff;
+    background-color: #162e44;
+    border-color: #162e44;
+}
+
+.swiper-slider-corporate .swiper-pagination-bullet::after {
+    background: #162e44;
+}
+
+.section .list-marked-2 img{
+    display: inline-block;
+    height: 420px;
+    width: 368px;
+}
+
+.section .list-marked-2 h5{
+    font-weight: bold;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 5px #162e44;
+}
+
+.container h2{
+    font-weight: bold;
+    text-shadow: 2px 2px 5px #162e44;
+}
+
+.container .shadow p{
+    font-weight: bold;
+    text-shadow: 2px 2px 10px #162e44;  
+}
