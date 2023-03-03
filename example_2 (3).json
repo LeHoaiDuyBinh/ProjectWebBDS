@@ -1,38 +1,18 @@
 {
-    "quiz": {
-        "sport": {
-            "q1": {
-                "question": "Which one is correct team name in NBA?",
-                "options": [
-                    "New York Bulls",
-                    "Los Angeles Kings",
-                    "Golden State Warriros",
-                    "Huston Rocket"
-                ],
-                "answer": "Huston Rocket"
-            }
+    "language" : {
+        "en" : {
+            "name":"Khoa Pham Training",
+            "address":"90 Le Thi Rieng",
+            "course1":"Android",
+            "course2":"PHP&MySQL",
+            "course3":"iOS"
         },
-        "maths": {
-            "q1": {
-                "question": "5 + 7 = ?",
-                "options": [
-                    "10",
-                    "11",
-                    "12",
-                    "13"
-                ],
-                "answer": "12"
-            },
-            "q2": {
-                "question": "12 - 8 = ?",
-                "options": [
-                    "1",
-                    "2",
-                    "3",
-                    "4"
-                ],
-                "answer": "4"
-            }
+        "vn": {
+            "name":"Trung tâm đào tạo tin học Khoa Phạm",
+            "address":"90 Le Thi Rieng",
+            "course1":"Lập trình Android",
+            "course2":"Lập trình PHP&MySQL",
+            "course3":"Lập trình iOS"
         }
     }
 }
