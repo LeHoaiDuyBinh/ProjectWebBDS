@@ -1,0 +1,18 @@
+{
+    "language" : {
+        "en" : {
+            "name":"Khoa Pham Training",
+            "address":"90 Le Thi Rieng",
+            "course1":"Android",
+            "course2":"PHP&MySQL",
+            "course3":"iOS"
+        },
+        "vn": {
+            "name":"Trung tâm đào tạo tin học Khoa Phạm",
+            "address":"90 Le Thi Rieng",
+            "course1":"Lập trình Android",
+            "course2":"Lập trình PHP&MySQL",
+            "course3":"Lập trình iOS"
+        }
+    }
+}
