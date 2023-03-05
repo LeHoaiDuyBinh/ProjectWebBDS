@@ -1,18 +1,7 @@
-{
-    "language" : {
-        "en" : {
-            "name":"Khoa Pham Training",
-            "address":"90 Le Thi Rieng",
-            "course1":"Android",
-            "course2":"PHP&MySQL",
-            "course3":"iOS"
-        },
-        "vn": {
-            "name":"Trung tâm đào tạo tin học Khoa Phạm",
-            "address":"90 Le Thi Rieng",
-            "course1":"Lập trình Android",
-            "course2":"Lập trình PHP&MySQL",
-            "course3":"Lập trình iOS"
-        }
-    }
-}
+[
+    {"khoahoc" : "Lap trinh iOS co ban", "hocphi" : "1500000"},
+    {"khoahoc" : "Lap trinh iOS nang cao", "hocphi" : "4500000"},
+    {"khoahoc" : "Lap trinh PHP&MySQL"   , "hocphi" : "3500000"},
+    {"khoahoc" : "Lap trinh Phonegap"    , "hocphi" : "1500000"},
+    {"khoahoc" : "Lap trinh Android"     , "hocphi" : "3500000"}
+]
